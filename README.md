@@ -1,1 +1,1 @@
-# ML
+This repository contains a movie recommendation system built using Python. It employs content-based and collaborative filtering techniques to recommend movies based on user preferences and viewing history. The system is implemented in a Jupyter Notebook and utilizes popular libraries such as pandas, numpy, and scikit-learn. Follow the steps in the notebook to load data, train models, and generate recommendations. Contributions and improvements are welcome.
